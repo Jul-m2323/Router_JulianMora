@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Campera Slappy DIY Bernal",
+        "price": 3000,
+        "img": "./public/campera_slappy.jpg"
+    },
+    {
+        "name": "Bolso Playero Slappy DIY Bernal",
+        "price": 1500,
+        "img": "./public/bolso_playero_slappy.jpg"
+    },
+    {
+        "name": "Totebag Slappy DIY Bernal",
+        "price":  1500,
+        "img": "./public/bolsas_slappy_diy.jpg"
+    },
+    {
+        "name": "Vela/Wax Slappy DIY Bernal",
+        "price": 200,
+        "img": ".public/vela_slappy.jpg"
+    }
+]
+
